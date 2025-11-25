@@ -1,4 +1,4 @@
-# MAD_24172012060_Practical-6: Android Animation Demo App
+# MAD_24172022007_Practical-6: Android Animation Demo App
 
 A simple Android application demonstrating various animation techniques including frame animations, view animations, and splash screen functionality.
 
@@ -127,6 +127,6 @@ app/
 
 ---
 
-**Student ID**: 24172012060 
+**Student ID**: 24172022007
 **Practical**: 6  
 **Course**: Mobile Application Development
